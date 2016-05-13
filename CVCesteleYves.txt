@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello World
 
 Je pense que mon parcours est un échec
@@ -5,3 +6,12 @@ Je pense que mon parcours est un échec
 Sauf le vendredi quand il y a des Poulettes
 
 Dans 20 min c'est pas la pause
+=======
+Hello World
+
+Je pense que mon parcours est un échec
+
+Sauf le vendredi quand il y a des Poulettes
+
+Dans 20 min c'est pas la pause
+>>>>>>> c98c5e422a085a1e4fe375f2f7199864e5cdbb85
