@@ -1,4 +1,0 @@
-Nom: Gargamel
-Profession: Sorcier
-Age: 132 ans
-Sexe: mâle
